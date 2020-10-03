@@ -1,0 +1,13 @@
+{
+    "info":{
+        "name": "Türkçe",
+        "code": "tr"
+    },
+    "title": "Vue.js Uygulamasına Hoş Geldiniz",
+    "links": "Gerekli Bağlantılar",
+    "docs": "Temel Doküman",
+    "forum": "Forum",
+    "comChat": "Topluluk Sohbeti",
+    "templateDoc": "Şablon Dokümanı",
+    "ecosystem": "Ekosistem"
+}

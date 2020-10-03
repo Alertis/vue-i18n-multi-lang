@@ -1,0 +1,13 @@
+{
+    "info":{
+        "name": "English",
+        "code": "en"
+    },
+    "title": "Welcome to Your Vue.js App",
+    "links": "Essential Links",
+    "docs": " Core Docs",
+    "forum": "Forum",
+    "comChat": " Community Chat",
+    "templateDoc": "Docs for This Template",
+    "ecosystem": "Ecosystem"
+}
