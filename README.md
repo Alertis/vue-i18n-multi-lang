@@ -1,5 +1,5 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
 ![Twitter][twitter-shield]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -20,7 +20,7 @@
   </p>
 </p>
 
-
+[![Product Name Screen Shot][product-screenshot-1]](https://github.com/Alertis/memorize/tree/master/screenshots)
 
 <!-- GETTING STARTED -->
 ## Başlangıç
@@ -60,4 +60,6 @@ npm start
 Osman Yavuz Demir - [@alertisx](https://twitter.com/Alertisx) - osmanyavuzdemir96@gmail.com
 
 [linkedin-url]: https://www.linkedin.com/in/osmanyavuzdemir/
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [twitter-shield]: https://img.shields.io/twitter/follow/Alertisx?label=Twitter&style=social
+[product-screenshot-1]: https://miro.medium.com/max/1851/1*WTih8xRrOXM7_ELx63AdgQ.gif
